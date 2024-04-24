@@ -3,9 +3,9 @@
 ## !!DISCLAIMER!!
 > Use with caution. I am not responsible for any financial loss you may suffer.
 
-
-
-
+<br>
+<br>
+<br>
 This is one of my first python project using the mt5 library, which was used to create a personal trader bot.
 
 The program has 2 well-structured parts:
