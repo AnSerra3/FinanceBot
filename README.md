@@ -1,7 +1,7 @@
 # Trader Bot
 
-## !!!DISCLAIMER!!!
-Use with caution. I am not responsible for any financial loss you may suffer.
+## !!DISCLAIMER!!
+> Use with caution. I am not responsible for any financial loss you may suffer.
 
 This is one of my first python project using the mt5 library, which was used to create a personal trader bot.
 
