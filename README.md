@@ -1,4 +1,4 @@
-# Trader Bot
+# Finance Bot
 This is one of my first python project using the mt5 library, which was used to create a personal trader bot.
 
 ## !!DISCLAIMER!!
